@@ -1,10 +1,10 @@
 # hire_lawyer
 
 A new Flutter project.
-1.	Hire Lawyer : Hire Lawyer estune application mobile crée avec flutter dans le but de résoudre la problème de trouver un avocat expert en ligne sans déplacement aux cabinets pour faire une consultation juridique ou bien prendre quelques idées concernant un sujet juridique ou bien engager un avocat dans un affaire juridique dans n’importe quelle domaine 
+Hire Lawyer estune application mobile crée avec flutter dans le but de résoudre la problème de trouver un avocat expert en ligne sans déplacement aux cabinets pour faire une consultation juridique ou bien prendre quelques idées concernant un sujet juridique ou bien engager un avocat dans un affaire juridique dans n’importe quelle domaine 
 Cette application comporte deux acteurs principale .
-•	Client .
-•	Avocat.
+•	Client 
+•	Avocat
 
 
 ## Getting Started
