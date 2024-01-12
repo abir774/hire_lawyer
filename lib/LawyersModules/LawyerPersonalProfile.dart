@@ -73,7 +73,19 @@ class _buildProfileState extends State<LawyerPersonalProfile> {
             size: size,
             height: 0.02,
           ),
+
+
+
+
+
+
+
+          
           Padding(
+
+
+
+            
             padding: const EdgeInsets.symmetric(horizontal: 60),
             child: Container(
               height: size.height * 0.1,
